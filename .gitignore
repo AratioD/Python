@@ -1,2 +1,4 @@
 venv/
 .vscode/settings.json
+buzz/__pycache__/
+tests/__pycache__/
